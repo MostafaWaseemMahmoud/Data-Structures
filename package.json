@@ -1,0 +1,12 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "+=============+===============+ Data Structures Examlpes +=============+===============+ ----------------------------------------------------------------- ## We Do it Becouse All Of Peaple Want to Data Sturctures Examples  ### And They Not Found  ####  Can Ask ChatGpt-4 Too About examples #####  but Here We have A Easy Eamples -------------------------------------------------------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
